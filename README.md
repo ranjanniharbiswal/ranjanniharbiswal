@@ -214,7 +214,7 @@ philosophy: "Write code that speaks for itself"
 <br/>
 
 <div align="center">
-```ascii
+```
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
 ║   "First solve the problem, then write the code."                ║
