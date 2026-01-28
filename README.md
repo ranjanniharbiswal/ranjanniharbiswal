@@ -15,17 +15,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ranjanniharbiswal&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   💫 Passionate about building scalable systems that        ║
-║      solve real-world problems                              ║
-║                                                              ║
-║   🎯 Specializing in backend architecture, microservices    ║
-║      & cloud-native applications                            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 <br/>
 
@@ -113,68 +102,68 @@ philosophy: "Write code that speaks for itself"
 <table>
 <tr>
 <td width="50%">
-
-### 🏨 Hotel Management System
-[![Repo](https://img.shields.io/badge/VIEW_REPO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranjanniharbiswal/Hotel-Management)
-
-**RESTful API for hotel bookings & room management**
-
-`Spring Boot` `MySQL` `REST API` `Authentication`
-
+<h3 align="center">🏨 Hotel Management System</h3>
+<div align="center">
+<a href="https://github.com/ranjanniharbiswal/Hotel-Management">
+<img src="https://img.shields.io/badge/VIEW_REPO-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<p><strong>RESTful API for hotel bookings & room management</strong></p>
+<p><code>Spring Boot</code> <code>MySQL</code> <code>REST API</code> <code>Authentication</code></p>
+</div>
 </td>
 <td width="50%">
-
-### 🏦 SilverLeaf Bank
-[![Repo](https://img.shields.io/badge/VIEW_REPO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranjanniharbiswal/SilverLeaf-bank)
-
-**Full-stack banking application**
-
-`Spring Boot` `Angular 17` `MySQL` `Security`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏗️ Microservices Architecture
-[![Repo](https://img.shields.io/badge/VIEW_REPO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranjanniharbiswal/microservices)
-
-**Distributed microservices system**
-
-`Spring Boot` `Cloud` `Docker` `Scalability`
-
-</td>
-<td width="50%">
-
-### 📚 Book Management System
-[![Repo](https://img.shields.io/badge/VIEW_REPO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranjanniharbiswal/Book-Management-System)
-
-**Comprehensive book inventory management**
-
-`TypeScript` `Node.js` `MongoDB` `REST API`
-
+<h3 align="center">🏦 SilverLeaf Bank</h3>
+<div align="center">
+<a href="https://github.com/ranjanniharbiswal/SilverLeaf-bank">
+<img src="https://img.shields.io/badge/VIEW_REPO-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<p><strong>Full-stack banking application</strong></p>
+<p><code>Spring Boot</code> <code>Angular 17</code> <code>MySQL</code> <code>Security</code></p>
+</div>
 </td>
 </tr>
 <tr>
 <td width="50%">
-
-### 🔐 Spring Security Demo
-[![Repo](https://img.shields.io/badge/VIEW_REPO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranjanniharbiswal/spring_security_demo)
-
-**Authentication & authorization implementation**
-
-`Spring Security` `JWT` `OAuth2`
-
+<h3 align="center">🏗️ Microservices Architecture</h3>
+<div align="center">
+<a href="https://github.com/ranjanniharbiswal/microservices">
+<img src="https://img.shields.io/badge/VIEW_REPO-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<p><strong>Distributed microservices system</strong></p>
+<p><code>Spring Boot</code> <code>Cloud</code> <code>Docker</code> <code>Scalability</code></p>
+</div>
 </td>
 <td width="50%">
-
-### 💼 More Projects
-[![Repo](https://img.shields.io/badge/VIEW_ALL-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranjanniharbiswal?tab=repositories)
-
-**Explore my complete portfolio**
-
-`20+ Repositories` `Open Source`
-
+<h3 align="center">📚 Book Management System</h3>
+<div align="center">
+<a href="https://github.com/ranjanniharbiswal/Book-Management-System">
+<img src="https://img.shields.io/badge/VIEW_REPO-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<p><strong>Comprehensive book inventory management</strong></p>
+<p><code>TypeScript</code> <code>Node.js</code> <code>MongoDB</code> <code>REST API</code></p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🔐 Spring Security Demo</h3>
+<div align="center">
+<a href="https://github.com/ranjanniharbiswal/spring_security_demo">
+<img src="https://img.shields.io/badge/VIEW_REPO-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<p><strong>Authentication & authorization implementation</strong></p>
+<p><code>Spring Security</code> <code>JWT</code> <code>OAuth2</code></p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">💼 More Projects</h3>
+<div align="center">
+<a href="https://github.com/ranjanniharbiswal?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<p><strong>Explore my complete portfolio</strong></p>
+<p><code>20+ Repositories</code> <code>Open Source</code></p>
+</div>
 </td>
 </tr>
 </table>
@@ -214,17 +203,10 @@ philosophy: "Write code that speaks for itself"
 <br/>
 
 <div align="center">
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║   "First solve the problem, then write the code."                ║
-║                                        - John Johnson             ║
-║                                                                   ║
-║   "Code is like humor. When you have to explain it, it's bad."   ║
-║                                        - Cory House               ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
+
+**"First solve the problem, then write the code." - John Johnson**
+
+**"Code is like humor. When you have to explain it, it's bad." - Cory House**
 
 ### ⚡ Thanks for visiting! Let's build something extraordinary together ⚡
 
