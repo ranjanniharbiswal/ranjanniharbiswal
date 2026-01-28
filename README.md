@@ -1,168 +1,233 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d1b69,100:1a1b27&height=200&section=header&text=Nihar%20Ranjan%20Biswal&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Backend%20Architect&descAlignY=51&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=NIHAR%20RANJAN%20BISWAL&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20×%20BACKEND%20ARCHITECT&descAlignY=55&descSize=20" width="100%"/>
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Nihar+👋;Backend+Developer+%7C+Java+Expert;Building+Scalable+Systems;Spring+Boot+%7C+AWS+%7C+Microservices" alt="Typing SVG" />
-</div>
-
-<h3 align="center">Crafting robust backend solutions & exploring cloud architectures 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ranjanniharbiswal&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ranjanniharbiswal?label=Followers&style=for-the-badge&color=blueviolet" alt="followers" />
-  <img src="https://img.shields.io/github/stars/ranjanniharbiswal?label=Stars&style=for-the-badge&color=blueviolet" alt="stars" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+High-Performance+Backend+Systems;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+AWS+%E2%80%A2+Microservices;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-Backend%20Development-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/LOCATION-India%20🇮🇳-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/STATUS-Available%20for%20Work-00D9FF?style=for-the-badge&labelColor=0D1117" />
+</p>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
-```javascript
-const nihar = {
-    location: "India 🇮🇳",
-    role: "Software Developer",
-    passion: "Building scalable, high-performance backend systems",
-    currentFocus: ["Spring Boot Microservices", "AWS Cloud", "System Design"],
-    learning: ["React", "Docker", "Distributed Systems"],
-    askMeAbout: ["Java", "Spring Boot", "RESTful APIs", "Database Design"],
-    funFact: "I debug with coffee and solve problems with code ☕"
-};
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ranjanniharbiswal&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   💫 Passionate about building scalable systems that        ║
+║      solve real-world problems                              ║
+║                                                              ║
+║   🎯 Specializing in backend architecture, microservices    ║
+║      & cloud-native applications                            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-- 🔭 Currently working on **Spring Boot microservices & cloud-native applications**
-- 🌱 Learning **AWS Cloud Architecture & React** to become a more versatile full-stack developer
-- 💡 Interested in **system design, distributed systems, and DevOps practices**
-- 🤝 Open to collaborating on **open-source projects** and innovative backend solutions
-- 💬 Ask me about **Java, Spring Boot, RESTful APIs, databases, and backend architecture**
-- ⚡ Fun fact: **I debug with coffee and solve problems with code** ☕
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40" /> ABOUT ME
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
-
-<div align="center">
-
-### Languages & Runtime
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Frameworks
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### Tools & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/ranjanniharbiswal/Hotel-Management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjanniharbiswal&repo=Hotel-Management&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/ranjanniharbiswal/SilverLeaf-bank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjanniharbiswal&repo=SilverLeaf-bank&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/ranjanniharbiswal/microservices">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjanniharbiswal&repo=microservices&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/ranjanniharbiswal/Book-Management-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjanniharbiswal&repo=Book-Management-System&theme=radical&hide_border=true" />
-</a>
-
-</div>
-
-### 💼 Project Highlights
-
-🏨 **[Hotel Management System](https://github.com/ranjanniharbiswal/Hotel-Management)** - Spring Boot RESTful API for hotel bookings, user authentication & room management
-
-🏦 **[SilverLeaf Bank](https://github.com/ranjanniharbiswal/SilverLeaf-bank)** - Full-stack banking application built with Spring Boot & Angular 17
-
-📚 **[Book Management System](https://github.com/ranjanniharbiswal/Book-Management-System)** - TypeScript-based comprehensive book management solution
-
-🔐 **[Spring Security Demo](https://github.com/ranjanniharbiswal/spring_security_demo)** - Authentication & authorization implementation with Spring Security
-
-🏗️ **[Microservices Architecture](https://github.com/ranjanniharbiswal/microservices)** - Distributed microservices system design with Spring Boot
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjanniharbiswal&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjanniharbiswal&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjanniharbiswal&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ranjanniharbiswal&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranjanniharbiswal&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🤝 Connect With Me
-
-<div align="center">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+```yaml
+profile:
+  name: Nihar Ranjan Biswal
+  role: Software Developer
+  location: India 🇮🇳
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihar-r-biswal/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjanniharbiswal2003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranjanniharbiswal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+expertise:
+  backend: [ Spring Boot, RESTful APIs, Microservices ]
+  cloud: [ AWS, Docker, System Design ]
+  databases: [ MySQL, PostgreSQL, MongoDB, Oracle ]
+  
+current_focus:
+  - Building microservices architectures
+  - Exploring AWS cloud services
+  - Learning React & modern frontend
+  - Contributing to open source
+  
+philosophy: "Write code that speaks for itself"
+```
 
-</div>
+<details>
+<summary><b>🎯 MORE ABOUT ME</b></summary>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- 🔭 Working on **Spring Boot Microservices & Cloud-Native Applications**
+- 🌱 Learning **React, Docker, Kubernetes & System Design**
+- 💡 Interested in **Distributed Systems, DevOps & Backend Architecture**
+- 🤝 Open to **Open Source Contributions & Collaborations**
+- 💬 Ask me about **Java, Spring Boot, RESTful APIs, Databases**
+- ⚡ Fun fact: **I turn coffee into code and bugs into features** ☕
+
+</details>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="40" height="40" /> TECH ARSENAL
 
 <div align="center">
 
-### 💭 Developer's Wisdom
+### ⚙️ Backend & Core
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)
+![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=0D1117)
+![Spring Security](https://img.shields.io/badge/SPRING_SECURITY-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white&labelColor=0D1117)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117)
+![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117)
 
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 🎨 Frontend
+![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117)
+![Angular](https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=0D1117)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)
 
-*"First, solve the problem. Then, write the code."* – John Johnson
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117)
+![Oracle](https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D1117)
 
-**Thanks for stopping by! Let's build something amazing together** 🚀✨
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1117)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)
 
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
+![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0D1117)
+![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=0D1117)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117)
+
+</div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40" height="40" /> FEATURED PROJECTS
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🏨 Hotel Management System
+[![Repo](https://img.shields.io/badge/VIEW_REPO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranjanniharbiswal/Hotel-Management)
+
+**RESTful API for hotel bookings & room management**
+
+`Spring Boot` `MySQL` `REST API` `Authentication`
+
+</td>
+<td width="50%">
+
+### 🏦 SilverLeaf Bank
+[![Repo](https://img.shields.io/badge/VIEW_REPO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranjanniharbiswal/SilverLeaf-bank)
+
+**Full-stack banking application**
+
+`Spring Boot` `Angular 17` `MySQL` `Security`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏗️ Microservices Architecture
+[![Repo](https://img.shields.io/badge/VIEW_REPO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranjanniharbiswal/microservices)
+
+**Distributed microservices system**
+
+`Spring Boot` `Cloud` `Docker` `Scalability`
+
+</td>
+<td width="50%">
+
+### 📚 Book Management System
+[![Repo](https://img.shields.io/badge/VIEW_REPO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranjanniharbiswal/Book-Management-System)
+
+**Comprehensive book inventory management**
+
+`TypeScript` `Node.js` `MongoDB` `REST API`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 Spring Security Demo
+[![Repo](https://img.shields.io/badge/VIEW_REPO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranjanniharbiswal/spring_security_demo)
+
+**Authentication & authorization implementation**
+
+`Spring Security` `JWT` `OAuth2`
+
+</td>
+<td width="50%">
+
+### 💼 More Projects
+[![Repo](https://img.shields.io/badge/VIEW_ALL-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranjanniharbiswal?tab=repositories)
+
+**Explore my complete portfolio**
+
+`20+ Repositories` `Open Source`
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="40" height="40" /> GITHUB ANALYTICS
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ranjanniharbiswal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjanniharbiswal&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d1b69,100:1a1b27&height=120&section=footer" width="100%"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjanniharbiswal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ranjanniharbiswal&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF" />
 </div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ranjanniharbiswal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&title=Stars,Commits,Repositories,PullRequest,Issues,Followers" />
+</div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="40" height="40" /> LET'S CONNECT
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/nihar-r-biswal/)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:ranjanniharbiswal2003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/ranjanniharbiswal)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117)](#)
+
+</div>
+
+<br/>
+
+<div align="center">
+```ascii
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║   "First solve the problem, then write the code."                ║
+║                                        - John Johnson             ║
+║                                                                   ║
+║   "Code is like humor. When you have to explain it, it's bad."   ║
+║                                        - Cory House               ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+### ⚡ Thanks for visiting! Let's build something extraordinary together ⚡
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer" width="100%"/>
